@@ -8,6 +8,7 @@ As a Software Engineer and UX/UI Designer, I'm passionate about modern technolog
 
 *   🌍  I'm based in Brno
 *   ✉️  You can contact me at [jiri.zenzinger@seznam.cz](mailto:jiri.zenzinger@seznam.cz)
+*   🚀  I'm currently working on [CephDetail](http://cephdetail.cz/#vouchers) and next project is CephDetail app with admin interface
 *   🧠  I'm learning Kotlin and Spring Boot to boost my knowledge also on backend side
 *   🤝  I'm open to collaborating on Frontend side of projects, making designs or simply push up your project...
 *   ⚡  I'm secretly Batman, but don't tell anyone...### Skills 
