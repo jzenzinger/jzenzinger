@@ -6,9 +6,10 @@ Frontend Developer & UX/UI Designer
 
 As a Software Engineer and UX/UI Designer, I'm passionate about modern technologies and specialize in web and mobile app development. I have a keen eye for design and enjoy combining programming skills with beautiful aesthetics to create exceptional user experiences. My expertise lies mainly in front-end development, with skills in React.js, TypeScript, Next.js, as well as back-end technologies such as Node.js, Prisma, MongoDB, MySQL. I'm constantly exploring new frameworks, tools and ways to stay on top of the latest trends and innovations in the field. I strive to apply my learnings to every project and bring my unique perspective to the table.
 
-*   🌍  I'm based in Brno
+*   🌍  I'm based in Brno and Zlin.
 *   ✉️  You can contact me at [jiri.zenzinger@seznam.cz](mailto:jiri.zenzinger@seznam.cz)
-*   🚀  I'm currently working on [CephDetail](http://cephdetail.cz/#vouchers) and personal project BeenThereApp inspired by [Been](https://been.app/), but for specific places.
+*   🚀  I'm currently working on personal project BeenThereApp inspired by [Been](https://been.app/), but for specific places.
+*   🖥️  My latest project is [CephDetail](http://cephdetail.cz/#vouchers)
 *   🧠  I'm learning Kotlin and Spring Boot to boost my knowledge also on backend side
 *   🤝  I'm open to collaborating on Frontend side of projects, making designs or simply push up your project...
 *   ⚡  I'm secretly Batman, but don't tell anyone...
