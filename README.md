@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Engineer
 -----------------------------------
 
-Frontend Engineer & UX/UI Designer. I bridge the gap between design and code to build intuitive, visually striking web apps. 3+ years experience combining aesthetics with functionality.
+Frontend Engineer. I bridge the gap between design and code to build intuitive, visually striking web apps. 4+ years experience combining aesthetics with functionality.
 
 *   🌍  I'm based in Brno and Zlin.
 *   ✉️  You can contact me at [jiri@zenzinger.cz](mailto:jiri@zenzinger.cz)
