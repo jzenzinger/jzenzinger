@@ -6,7 +6,7 @@ Frontend Developer
 
 I bridge the gap between design and code to build intuitive, visually striking web apps. 4+ years experience combining aesthetics with functionality.
 
-*   🌍  I'm based in Brno and Zlin.
+*   🌍  I'm based in Zlin.
 *   ✉️  You can contact me at [jiri@zenzinger.cz](mailto:jiri@zenzinger.cz)
 *   🚀  &nbsp;I'm currently working on personal project BeenThereApp inspired by [Been](https://been.app/), but for specific places.
 *   🖥️  &nbsp;My latest project was cooperation on new [CephDetail website](http://cephdetail.cz/)
